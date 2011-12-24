@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /_import
+Disallow: /_layout
+Disallow: /_posts
+Disallow: /css
+Disallow: /js
+Disallow: /.gitignore
+Disallow: /404.html
+Disallow: /CNAME
+Disallow: /_config.yml
