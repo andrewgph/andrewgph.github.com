@@ -123,7 +123,7 @@ I also helped with events aimed at school students, such as the
 <p>
 2001 to 2005:
 <br>MSci (Hons), Mathematics (1st), University of Bristol
-<br>In particular I received the highest mark in my year group in the 2nd year Applied Probability module, the 3rd year Logic module and the 4th year Computational Complexity module.
+<br>In particular I received amongst the highest marks in my year group in the 2nd year Applied Probability module, the 3rd year Logic module and the 4th year Computational Complexity module.
 </p>
 
 </div>
