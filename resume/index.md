@@ -9,7 +9,7 @@ title:
 My goal is to engineer software systems that process the information our society depends upon. I've studied a variety of academic subjects, including Mathematics, Computer Science, Philosophy and Law, and I've gained technical experience from working on complex software systems in the online gambling industry. These experiences allow me to quickly understand and work on software systems in different domains.
 </p>
 <p>
-I have a passion for technically demanding work. I'm continually working to improve my skill-set, for example I've recently taken several <a href="http://www.coursera.org">Coursera</a> courses. My <a href="https://github.com/andrewgph">GitHub account</a> has examples of side projects that I've worked on.
+I have a passion for technically demanding work. I'm continually working to improve my skill-set, for example I've recently taken several <a href="http://www.coursera.org">Coursera</a> courses and my <a href="https://github.com/andrewgph">GitHub account</a> has examples of side projects that I've worked on.
 </p>
 
 <h3> Work Experience </h3>
@@ -107,7 +107,8 @@ I also helped with events aimed at school students, such as the
 <li>Declarative Programming: SQL</li>
 <li>Web servers: Apache</li>
 <li>Database Management Systems: Informix, MySQL, PostgreSQL, SQLite</li>
-<li>Web development client-side: JavaScript (including jQuery and Prototype frameworks), HTML, CSS, JSON, XML, HTTP Push<li>
+<li>Web development client-side: JavaScript (including jQuery and Prototype frameworks), HTML, CSS, JSON, XML, HTTP Push</li>
+<li>Version control systems: CVS, SVN, Git</li>
 <li>Web development server-side: Tcl, PHP</li>
 </ul>
 
@@ -123,7 +124,7 @@ I also helped with events aimed at school students, such as the
 <p>
 2001 to 2005:
 <br>MSci (Hons), Mathematics (1st), University of Bristol
-<br>In particular I received amongst the highest marks in my year group in the 2nd year Applied Probability module, the 3rd year Logic module and the 4th year Computational Complexity module.
+<br>I received amongst the highest marks in my year group in several modules, in particular the 2nd year Applied Probability module, the 3rd year Logic module and the 4th year Computational Complexity module.
 </p>
 
 </div>
