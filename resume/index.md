@@ -37,7 +37,7 @@ My responsibilities include:
 </ul>
 
 <p>
-Technologies Used: Linux, Apache, Tcl, Informix, SQL, JavaScript (including libraries such as jQuery), Java (Apache Tomcat), C
+Technologies Used: Linux, Apache, Tcl, Informix, SQL, JavaScript (including libraries such as jQuery), Java (Apache Tomcat)
 </p>
 
 <h4>
