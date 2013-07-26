@@ -6,7 +6,7 @@ title:
 <div class="cv">
 
 <p>
-My goal is to engineer software systems that process the information our society depends upon. I've studied a variety of academic subjects, including Mathematics, Computer Science, Philosophy and Law, and I've gained technical experience from working on complex software systems in the online gambling industry. These experiences allow me to quickly understand and work on software systems in different domains.
+My goal is to engineer software systems that process the information our society depends upon. I've studied a variety of academic subjects, including Mathematics, Computer Science, Philosophy and Law, and I've gained technical experience from working on complex software systems in online gambling and e-commerce. These experiences allow me to quickly understand and work on software systems in different domains.
 </p>
 <p>
 I have a passion for technically demanding work. I'm continually working to improve my skill-set, for example I've recently taken several <a href="http://www.coursera.org">Coursera</a> courses and my <a href="https://github.com/andrewgph">GitHub account</a> has examples of side projects that I've worked on.
