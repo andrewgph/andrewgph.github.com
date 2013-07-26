@@ -15,13 +15,19 @@ I have a passion for technically demanding work. I'm continually working to impr
 <h3> Work Experience </h3>
 
 <h4>
+Software Development Engineer <br />
+<a href="http://vancouver.amazon-jobs.com/">Amazon</a> <br />
+2013 to present in Vancouver, Canada <br />
+</h4>
+
+<h4>
 Senior Software Developer <br />
 <a href="http://www.openbet.com">OpenBet</a> <br />
-2009 to Present in London, UK and Vancouver, Canada <br />
+2009 to 2012 in London, UK and Vancouver, Canada <br />
 </h4>
 
 <p>
-In my time at OpenBet I have worked with some of the largest companies in the gambling industry on technically challenging projects. In particular I was involved in projects to add live sports betting functionality to the William Hill sportsbook, <a href="http://sports.williamhill.com/bet">sports.williamhill.com/bet</a>, and to develop a sportsbook for BCLC, <a href="http://www.playnow.com/sports">www.playnow.com/sports</a>. I was assigned to the William Hill live betting project shortly after joining OpenBet and was heavily involved in developing the complex functionality to tight deadlines. I was involved in the BCLC sportsbook project through all stages of the software development lifecycle, from the initial workshops in February 2011 through to the successful launch in July 2012.
+In my time at OpenBet I worked with some of the largest companies in the gambling industry on technically challenging projects. In particular I was involved in projects to add live sports betting functionality to the William Hill sportsbook, <a href="http://sports.williamhill.com/bet">sports.williamhill.com/bet</a>, and to develop a sportsbook for BCLC, <a href="http://www.playnow.com/sports">www.playnow.com/sports</a>. I was assigned to the William Hill live betting project shortly after joining OpenBet and was heavily involved in developing the complex functionality to tight deadlines. I was involved in the BCLC sportsbook project through all stages of the software development lifecycle, from the initial workshops in February 2011 through to the successful launch in July 2012.
 </p>
 
 <p>
