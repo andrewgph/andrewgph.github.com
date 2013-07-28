@@ -31,18 +31,6 @@ In my time at OpenBet I worked with some of the largest companies in the gamblin
 </p>
 
 <p>
-My responsibilities include:
-</p>
-<ul>
-<li>Developing new features and functionality for high transaction, large scale betting websites.</li>
-<li>Participating in design and code reviews.</li>
-<li>Identifying and addressing performance bottlenecks in the software.</li>
-<li>Designing solutions that are modular, scalable and portable.</li>
-<li>Working with customers to extract requirements and agree the designs.</li>
-<li>Deputising in team management or product management roles.</li>
-</ul>
-
-<p>
 Technologies Used: Linux, Apache, Tcl, Informix, SQL, JavaScript (including libraries such as jQuery), Java (Apache Tomcat)
 </p>
 
@@ -60,14 +48,6 @@ the areas of Artificial Intelligence, Informatics, Philosophy and Law. My thesis
 problem of providing automated support for the evolution of legal knowledge.
 </p>
 <p>
-As a researcher I participated in the following activities:
-</p>
-<ul>
-<li>Writing a dissertation and workshop papers</li>
-<li>Presenting posters and papers at workshops</li>
-<li>Presenting and discussing ideas at seminars</li>
-<li>Reviewing papers</li>
-</ul>
 
 <h4>
 Teaching Support Provider <br />
