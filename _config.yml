@@ -1,5 +1,5 @@
 markdown: rdiscount
-pygments: true
+highlighter: rouge
 permalink: /:year/:month/:title
 paginate: 10
 rdiscount:
